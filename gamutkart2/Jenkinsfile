@@ -13,7 +13,7 @@ pipeline {
 		}
 		stage('Deployment') {
 			steps {
-				sh 'echo deployment is succussful!'
+				sh 'echo deployment is succussful!.'
 			}
 		}
 
